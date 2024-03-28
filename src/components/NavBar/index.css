@@ -1,0 +1,31 @@
+/* Write your code here. */
+* {
+  margin: 0px;
+  font-family: Roboto;
+  color: #ffffff;
+}
+.navbar-container {
+  background-color: #9796f0;
+  height: 90px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: solid 3px #ffffff30;
+  padding: 20px;
+}
+.img-custom {
+  height: 60px;
+}
+
+.scores {
+  display: flex;
+}
+.para {
+  margin-right: 8px;
+  color: #ffffff;
+}
+.emoji-logo {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}

@@ -1,0 +1,25 @@
+/* Write your code here. */
+* {
+  font-family: Roboto;
+  color: #ffffff;
+}
+.greet-container {
+  background-color: #9796f0;
+  border: solid 2px #ffffff33;
+  display: flex;
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-container {
+  display: flex;
+  flex-direction: column;
+}
+.btn-custom {
+  background-color: #ffce27;
+  color: #3d3d3d;
+  border-width: 0px;
+  border-radius: 5px;
+  padding: 8px;
+}
